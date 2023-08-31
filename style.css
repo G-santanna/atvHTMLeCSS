@@ -1,0 +1,27 @@
+.A{
+    background-color: #6f00ff;
+    width: 40vw;
+    height: 40vh;
+}
+.B{
+    background-color: #ff00dd;
+    width: 90%;
+    height: 10%;
+}
+.C{
+    color: #00c3ff;
+    background-color: #00ff22;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+.D{
+    width: 40%;
+    height: 50vh;
+    background-color: #0026ff;
+}
+.E{
+    width: 35vw;
+    height: 60%;
+    background-color: #7700ff;
+}
